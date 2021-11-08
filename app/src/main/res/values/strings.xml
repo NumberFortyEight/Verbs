@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Verbs</string>
+    <string name="verb_input_hint">Введите глагол</string>
+    <string name="also_one_verb">Только одно слово</string>
+</resources>
